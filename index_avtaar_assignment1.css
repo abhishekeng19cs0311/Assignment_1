@@ -1,0 +1,426 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+.rectangle {
+  position: absolute;
+  width: 60px;
+  height: 62px;
+  left: calc(50% - 60px / 2 - 466px);
+  top: 16px;
+
+  background: url(.png);
+}
+
+.default_1 {
+  position: relative;
+  width: 1440px;
+  height: 1439px;
+
+  background: #fffcef;
+}
+
+.center {
+  text-align: center;
+  color: red;
+}
+
+.Rectangle1391 {
+  position: absolute;
+  width: 1440px;
+  height: 94px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(42, 45, 123, 0.02);
+}
+
+.Rectangle {
+  position: absolute;
+  width: 60px;
+  height: 62px;
+  left: calc(50% - 60px / 2 - 466px);
+  top: 16px;
+}
+
+.ASSIGNMENTS {
+  position: absolute;
+  /* width: 119px; */
+  height: 19px;
+  left: calc(50% - 119px / 2 - 34.5px);
+  top: 38px;
+
+  /* font-family: Lato; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+
+  color: #1f2737;
+}
+
+.INTERNSHIP {
+  position: absolute;
+  /* width: 101px; */
+  height: 19px;
+  left: calc(50% - 101px / 2 + 135.5px);
+  top: 38px;
+
+  /* font-family: Lato; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+
+  color: #1f2737;
+}
+
+.ABOUT_US {
+  position: absolute;
+  /* width: 84px; */
+  height: 19px;
+  left: calc(50% - 84px / 2 + 288px);
+  top: 38px;
+
+  /* font-family: Lato; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+
+  color: #1f2737;
+}
+
+.CONTACT_US {
+  position: absolute;
+  height: 19px;
+  left: calc(50% - 106px / 2 + 443px);
+  top: 38px;
+
+  /* font-family: Lato; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+
+  color: #1f2737;
+}
+
+.Recruiter_Dashboard {
+  position: absolute;
+  height: 35px;
+  left: 150px;
+  top: 134px;
+
+  font-family: SoleilW01-SemiBold;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 35px;
+  /* identical to box height */
+
+  color: #606060;
+}
+
+.Rectangle_1558 {
+  position: absolute;
+  width: 170px;
+  height: 45px;
+  left: 150px;
+  top: 210px;
+
+  background: #ffffff !important;
+  border:1px solid #7a7767 !important;
+  box-sizing: border-box !important;
+  border-radius: 8px !important;
+}
+.Rectangle_1512 {
+  position: relative;
+  width: 340px;
+  height: 500px;
+  left: 0px !important;
+  top: 8px !important;
+
+  background: #ffffff;
+  border: 1px solid #f2eeda;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 20px rgba(96, 96, 96, 0.4);
+  border-radius: 8px;
+}
+.Fullstack_Developer {
+  position: absolute;
+  width: 134px;
+  height: 18px;
+  left: 190px;
+  top: 291px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #646464;
+}
+.Software_development_lifecycle {
+  position: absolute;
+  width: 244px;
+  height: 17px;
+  left: 219px;
+  top: 325px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #646464;
+}
+
+.Line_219 {
+  position: absolute;
+  width: 345px;
+  height: 0px;
+  left: 151px;
+  top: 689px;
+
+  border: 1px solid #f2eeda;
+}
+.Rectangle_1570 {
+  position: absolute;
+  width: 123px;
+  height: 42px;
+  left: 348px;
+  top: 705px;
+
+  background: linear-gradient(90deg, #2700ec 0%, #3504e6 100%);
+  border-radius: 100%;
+}
+.Apply {
+  position: absolute;
+  width: 55px;
+  height: 19px;
+  left: 388px;
+  top: 716px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  background-color: inherit;
+  border: 0px;
+  color: #ffffff;
+}
+.Rectangle_1449 {
+  position: absolute;
+  width: 558px;
+  height: 339px;
+  left: 150px;
+  top: 293px;
+
+  background: #ffffff;
+  border: 1px solid #f2eeda;
+  box-sizing: border-box;
+  border-radius: 16px;
+}
+.Rectangle_1569 {
+  position: absolute;
+  width: 287px;
+  height: 50px;
+  left: 150px;
+  top: 277px;
+
+  background: #f2eeda;
+  border: 1px solid #b8b298;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.Vector {
+  position: absolute;
+  left: 20%;
+  right: 19.97%;
+  top: 20%;
+  bottom: 19.98%;
+
+  background: #606060;
+}
+.image_1 {
+  position: relative;
+  width: 103px;
+  height: 115.48px;
+  left: 24px;
+  top: 20.1px;
+  border-radius: 16px;
+}
+
+.Scarlett {
+  position: absolute;
+  width: 312px;
+  height: 29px;
+  left: 143px;
+  top: 24px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  color: #282828;
+}
+
+.Aspiring_UX_Designer {
+  position: absolute;
+  width: 150px;
+  height: 19px;
+  left: 143px;
+  top: 69px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #606060;
+}
+.Top_Areas {
+  position: absolute;
+  width: 87px;
+  height: 24px;
+  left: 24px;
+  top: 182px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #606060;
+}
+
+.Auto_layout {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 16px;
+
+  position: absolute;
+  width: 294px;
+  height: 30px;
+  left: 143px;
+  top: 183px;
+
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.Software_Development_Life_Cycle_SDLC {
+  /* doubt in this*/
+
+  position: static;
+  width: 262px;
+  height: 20px;
+  left: 143px;
+  top: 183px;
+
+  font-family: SoleilW01-Regular;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #606060;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 10px;
+}
+
+.Software_dev_methodologies {
+  position: static;
+  width: 186px;
+  height: 20px;
+  left: 16px;
+  top: 5px;
+
+  font-family: SoleilW01-Regular;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #606060;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 10px;
+}
+
+.Git_version_control_Github {
+  position: static;
+  width: 163px;
+  height: 17px;
+  left: 16px;
+  top: 5px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #606060;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 10px;
+}
+
+.selected {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #606060;
+}
+
+* {
+  font-family: "Roboto Serif", sans-serif;
+}
